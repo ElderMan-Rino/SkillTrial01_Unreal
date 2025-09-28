@@ -4,4 +4,3 @@
 #include "Modules/ModuleManager.h"
 
 IMPLEMENT_PRIMARY_GAME_MODULE( FDefaultGameModuleImpl, SkillTrial01_Unreal, "SkillTrial01_Unreal" );
- 
